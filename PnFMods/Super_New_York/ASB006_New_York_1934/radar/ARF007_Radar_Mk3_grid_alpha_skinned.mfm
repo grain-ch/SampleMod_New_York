@@ -1,0 +1,10 @@
+<ARF007_Radar_Mk3_grid_alpha_skinned.mfm>
+	<fx>	shaders/std_effects/grid_alpha_skinned.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/Super_New_York/ASB006_New_York_1934/radar/ARF007_Radar_Mk3_grid_alpha_a.dds	</Texture>
+	</property>
+	<property>	alphaReference
+		<Int>	0	</Int>
+	</property>
+</ARF007_Radar_Mk3_grid_alpha_skinned.mfm>

@@ -1,0 +1,7 @@
+<AF090_Rangefinder_3_6m.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/Super_New_York/ASB006_New_York_1934/finder/lods/AF090_Rangefinder_3_6m_lod1	</parent>
+	<extent>	2.0000	</extent>
+	<nodefullVisual>	PnFMods/Super_New_York/ASB006_New_York_1934/finder/AF090_Rangefinder_3_6m	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AF090_Rangefinder_3_6m.model>

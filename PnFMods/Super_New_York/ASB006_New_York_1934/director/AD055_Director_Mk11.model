@@ -1,0 +1,7 @@
+<AD055_Director_Mk11.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/Super_New_York/ASB006_New_York_1934/director/lods/AD055_Director_Mk11_lod1	</parent>
+	<extent>	4.0000	</extent>
+	<nodefullVisual>	PnFMods/Super_New_York/ASB006_New_York_1934/director/AD055_Director_Mk11	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AD055_Director_Mk11.model>
