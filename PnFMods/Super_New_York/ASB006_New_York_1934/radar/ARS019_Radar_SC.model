@@ -1,17 +1,8 @@
 <ARS019_Radar_SC.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/Super_New_York/ASB006_New_York_1934/radar/lods/ARS019_Radar_SC_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/Super_New_York/ASB006_New_York_1934/radar/ARS019_Radar_SC	</nodefullVisual>
-	<animation>
-		<name>	Rotation5rpm	</name>
-		<frameRate>	30.0000	</frameRate>
-		<nodes>	content/animation/common/Rotation5rpm	</nodes>
-	</animation>
-	<action>
-		<name>	idle	</name>
-		<animation>	Rotation5rpm	</animation>
-		<filler>	true	</filler>
-	</action>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/Super_New_York/ASB006_New_York_1934/radar/ARS019_Radar_SC.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/legacy/gameplay/ARS019_Radar_SC/ARS019_Radar_SC.ssm	</animation>
+	</animations>
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </ARS019_Radar_SC.model>

@@ -1,5 +1,5 @@
 <AD054_Director_Mk7.mfm>
-	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<fx>	shaders/materials/pbs/ship_material.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/Super_New_York/ASB006_New_York_1934/director/default_ao.dds	</Texture>

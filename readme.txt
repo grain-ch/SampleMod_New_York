@@ -9,5 +9,8 @@ This is a sample MOD for PnF Skin Mod.
 ==============================
 Change log
 
+2025/02/08
+update for WoWS 14.1
+
 2021/08/10
 ・first edition

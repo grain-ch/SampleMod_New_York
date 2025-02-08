@@ -1,7 +1,6 @@
 <AGA003_20mm_Oerlikon_MK4.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/Super_New_York/ASB006_New_York_1934/gun/lods/AGA003_20mm_Oerlikon_MK4_lod1	</parent>
-	<extent>	2.0000	</extent>
-	<nodefullVisual>	PnFMods/Super_New_York/ASB006_New_York_1934/gun/AGA003_20mm_Oerlikon_MK4	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/Super_New_York/ASB006_New_York_1934/gun/AGA003_20mm_Oerlikon_MK4.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </AGA003_20mm_Oerlikon_MK4.model>

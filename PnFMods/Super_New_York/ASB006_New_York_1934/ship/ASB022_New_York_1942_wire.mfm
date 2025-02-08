@@ -7,7 +7,4 @@
 	<property>	metallicGlossMap
 		<Texture>	PnFMods/Super_New_York/ASB006_New_York_1934/ship/ASB022_New_York_1942_mg.dds	</Texture>
 	</property>
-	<property>	normalMap
-		<Texture>	PnFMods/Super_New_York/ASB006_New_York_1934/ship/ASB022_New_York_1942_n.dds	</Texture>
-	</property>
 </ASB022_New_York_1942_wire.mfm>
